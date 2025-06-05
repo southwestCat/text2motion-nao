@@ -6,12 +6,16 @@
 
 ## Dependencies
 
-+ Ubuntu 22.04,
++ Ubuntu 22.04
 
-+ [Isaaclab](https://github.com/isaac-sim/IsaacLab/releases/tag/v2.0.0)=2.0.0,
-+ IsaacSim=4.5,
-+ rsl_rl=2.0.2,
++ [Isaaclab](https://github.com/isaac-sim/IsaacLab/releases/tag/v2.0.0)=2.0.0
+
++ IsaacSim=4.5
+
++ rsl_rl=2.0.2
+
 + ONNX Runtime=1.19.2
+
 + [ROS2 humble](https://docs.ros.org/en/humble/Installation.html)
 
 Please refer to the Isaaclab installation documentation to install the necessary environment components.
