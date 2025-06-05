@@ -1,0 +1,1 @@
+from .robots.nao import NAO_CFG
