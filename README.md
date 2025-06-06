@@ -1,6 +1,6 @@
 # Realizing Text-Driven Motion Generation on NAO Robot: A Reinforcement Learning-Optimized Control Pipeline
 
-> This repository contains the source code and supplementary materials for the [paper]((https://arxiv.org/abs/2506.05117)).
+> This repository contains the source code and supplementary materials for the [paper](https://arxiv.org/abs/2506.05117).
 
 
 ## Dependencies
